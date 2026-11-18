@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#A77BFF"/><stop offset="1" stop-color="#38C2AE"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <circle cx="76" cy="100" r="40" fill="#FFFFFF" opacity=".16"/>
+  <circle cx="446" cy="420" r="66" fill="#FFFFFF" opacity=".12"/>
+  <circle cx="440" cy="96" r="24" fill="#FFFFFF" opacity=".2"/>
+  <!-- lollipop stick -->
+  <rect x="244" y="300" width="24" height="120" rx="12" fill="#FFFFFF"/>
+  <!-- lollipop: rainbow rings like a little Venn swirl -->
+  <circle cx="256" cy="210" r="126" fill="#FFFFFF"/>
+  <circle cx="256" cy="210" r="112" fill="#FF8DBA"/>
+  <circle cx="256" cy="210" r="88" fill="#FFC93C"/>
+  <circle cx="256" cy="210" r="66" fill="#8EE3D3"/>
+  <circle cx="256" cy="210" r="46" fill="#FFFFFF"/>
+  <text x="256" y="236" text-anchor="middle" font-family="STIX Two Math, Apple Symbols, Times New Roman, serif" font-size="66" font-weight="700" fill="#7B3FE0">∀∃</text>
+  <!-- ribbon bow -->
+  <g fill="#FF5C90" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round">
+    <path d="M256 336 L212 312 L212 360 Z"/><path d="M256 336 L300 312 L300 360 Z"/>
+  </g>
+  <circle cx="256" cy="336" r="11" fill="#FF5C90" stroke="#FFFFFF" stroke-width="5"/>
+  <g fill="#FFF3B0">
+    <path d="M400 150 l9 25 25 9 -25 9 -9 25 -9 -25 -25 -9 25 -9z"/>
+    <path d="M110 300 l6 16 16 6 -16 6 -6 16 -6 -16 -16 -6 16 -6z"/>
+  </g>
+  <rect x="186" y="398" width="140" height="64" rx="32" fill="#FFFFFF"/>
+  <text x="256" y="445" text-anchor="middle" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="800" fill="#7B3FE0">12</text>
+</svg>
